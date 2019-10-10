@@ -1,4 +1,4 @@
-Step 1. Create a Repository
+# Step 1. Create a Repository
 
 A GitHub repository for IAMRRI project has been created.
 This repository will be used to organize the project programing activities of WP3 & WP5.
